@@ -4,7 +4,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/clipboard-landing-page-rznr4NHeaP](https://www.frontendmentor.io/solutions/clipboard-landing-page-rznr4NHeaP)
 - Live Site URL: [https://z-khutsishvili.github.io/clipboard-landing-page/](https://z-khutsishvili.github.io/clipboard-landing-page/)
 
 ## Built with
